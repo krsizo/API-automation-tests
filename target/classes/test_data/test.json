@@ -1,0 +1,11 @@
+{
+  "firstname": "Kristina",
+  "lastname": "Sizova",
+  "totalprice": 111,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2016-07-07",
+    "checkout": "2017-10-20"
+  },
+  "additionalneeds": "This was problematic"
+}
